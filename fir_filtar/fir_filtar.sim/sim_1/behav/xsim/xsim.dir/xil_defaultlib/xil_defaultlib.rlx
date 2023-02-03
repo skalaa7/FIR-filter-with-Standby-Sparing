@@ -1,0 +1,10 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+C:/Users/Andrej/Desktop/git/otporni/fir_filtar/fir_filtar.srcs/sim_1/new/fir_tb.vhd,1675282007,vhdl2008,,,,fir_tb,,,,,,,,
+C:/Users/Andrej/Desktop/git/otporni/fir_filtar/fir_filtar.srcs/sources_1/new/dsp.vhd,1670862834,vhdl,,,,dsp,,,,,,,,
+C:/Users/Andrej/Desktop/git/otporni/fir_filtar/fir_filtar.srcs/sources_1/new/fir_filtar.vhd,1674401541,vhdl,C:/Users/Andrej/Desktop/git/otporni/fir_filtar/fir_filtar.srcs/sim_1/new/fir_tb.vhd,,,fir_filtar,,,,,,,,
+C:/Users/Andrej/Desktop/git/otporni/fir_filtar/fir_filtar.srcs/sources_1/new/mac.vhd,1670866299,vhdl,C:/Users/Andrej/Desktop/git/otporni/fir_filtar/fir_filtar.srcs/sources_1/new/fir_filtar.vhd,,,mac,,,,,,,,
+C:/Users/Andrej/Desktop/git/otporni/fir_filtar/fir_filtar.srcs/sources_1/new/txt_util.vhd,1670696374,vhdl,C:/Users/Andrej/Desktop/git/otporni/fir_filtar/fir_filtar.srcs/sim_1/new/fir_tb.vhd,,,txt_util,,,,,,,,
+C:/Users/Andrej/Desktop/git/otporni/fir_filtar/fir_filtar.srcs/sources_1/new/util_pkg.vhd,1670696374,vhdl,C:/Users/Andrej/Desktop/git/otporni/fir_filtar/fir_filtar.srcs/sim_1/new/fir_tb.vhd;C:/Users/Andrej/Desktop/git/otporni/fir_filtar/fir_filtar.srcs/sources_1/new/fir_filtar.vhd,,,util_pkg,,,,,,,,

@@ -1,0 +1,11 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+C:/Users/Andrej/Desktop/git/otporni/fault_tolerant_fir/fault_tolerant_fir.srcs/sim_1/new/fault_tolerant_tb.vhd,1675283069,vhdl,,,,fault_tolerant_tb,,,,,,,,
+C:/Users/Andrej/Desktop/git/otporni/fault_tolerant_fir/fault_tolerant_fir.srcs/sources_1/new/fault_tolerant.vhd,1674685878,vhdl,C:/Users/Andrej/Desktop/git/otporni/fault_tolerant_fir/fault_tolerant_fir.srcs/sim_1/new/fault_tolerant_tb.vhd,,,fault_tolerant,,,,,,,,
+C:/Users/Andrej/Desktop/git/otporni/fault_tolerant_fir/fault_tolerant_fir.srcs/sources_1/new/fir_filtar.vhd,1673892322,vhdl,C:/Users/Andrej/Desktop/git/otporni/fault_tolerant_fir/fault_tolerant_fir.srcs/sources_1/new/module.vhd,,,fir_filtar,,,,,,,,
+C:/Users/Andrej/Desktop/git/otporni/fault_tolerant_fir/fault_tolerant_fir.srcs/sources_1/new/mac.vhd,1673890857,vhdl,C:/Users/Andrej/Desktop/git/otporni/fault_tolerant_fir/fault_tolerant_fir.srcs/sources_1/new/fir_filtar.vhd,,,mac,,,,,,,,
+C:/Users/Andrej/Desktop/git/otporni/fault_tolerant_fir/fault_tolerant_fir.srcs/sources_1/new/module.vhd,1675332400,vhdl,C:/Users/Andrej/Desktop/git/otporni/fault_tolerant_fir/fault_tolerant_fir.srcs/sources_1/new/fault_tolerant.vhd,,,module,,,,,,,,
+C:/Users/Andrej/Desktop/git/otporni/fault_tolerant_fir/fault_tolerant_fir.srcs/sources_1/new/txt_util.vhd,1670696374,vhdl,C:/Users/Andrej/Desktop/git/otporni/fault_tolerant_fir/fault_tolerant_fir.srcs/sim_1/new/fault_tolerant_tb.vhd,,,txt_util,,,,,,,,
+C:/Users/Andrej/Desktop/git/otporni/fault_tolerant_fir/fault_tolerant_fir.srcs/sources_1/new/util_pkg.vhd,1670696374,vhdl,C:/Users/Andrej/Desktop/git/otporni/fault_tolerant_fir/fault_tolerant_fir.srcs/sim_1/new/fault_tolerant_tb.vhd;C:/Users/Andrej/Desktop/git/otporni/fault_tolerant_fir/fault_tolerant_fir.srcs/sources_1/new/fault_tolerant.vhd;C:/Users/Andrej/Desktop/git/otporni/fault_tolerant_fir/fault_tolerant_fir.srcs/sources_1/new/fir_filtar.vhd;C:/Users/Andrej/Desktop/git/otporni/fault_tolerant_fir/fault_tolerant_fir.srcs/sources_1/new/module.vhd,,,util_pkg,,,,,,,,

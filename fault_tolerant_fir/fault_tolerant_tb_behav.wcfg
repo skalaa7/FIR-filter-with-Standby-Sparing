@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="fault_tolerant_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="fault_tolerant_tb" />
+            <top_module name="txt_util" />
+            <top_module name="util_pkg" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="570000001fs"></ZoomEndTime>
+      <Cursor1Time time="0fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="173"></NameColumnWidth>
+      <ValueColumnWidth column_width="89"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="18" />
+   <wvobject fp_name="/fault_tolerant_tb/clk_i_s" type="logic">
+      <obj_property name="ElementShortName">clk_i_s</obj_property>
+      <obj_property name="ObjectShortName">clk_i_s</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fault_tolerant_tb/uut_fault_tolerant_fir/sel" type="array">
+      <obj_property name="ElementShortName">sel[1:0]</obj_property>
+      <obj_property name="ObjectShortName">sel[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fault_tolerant_tb/uut_fault_tolerant_fir/\module_gen(0)\/modules/error_o" type="logic">
+      <obj_property name="ElementShortName">error_o</obj_property>
+      <obj_property name="ObjectShortName">error_o</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fault_tolerant_tb/uut_fault_tolerant_fir/\module_gen(1)\/modules/error_o" type="logic">
+      <obj_property name="ElementShortName">error_o</obj_property>
+      <obj_property name="ObjectShortName">error_o</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fault_tolerant_tb/uut_fault_tolerant_fir/\module_gen(2)\/modules/error_o" type="logic">
+      <obj_property name="ElementShortName">error_o</obj_property>
+      <obj_property name="ObjectShortName">error_o</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fault_tolerant_tb/uut_fault_tolerant_fir/error_s" type="array">
+      <obj_property name="ElementShortName">error_s[2:0]</obj_property>
+      <obj_property name="ObjectShortName">error_s[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fault_tolerant_tb/uut_fault_tolerant_fir/\module_gen(0)\/modules/fir_filter_0/first_section/b_i" type="array">
+      <obj_property name="ElementShortName">b_i[16:0]</obj_property>
+      <obj_property name="ObjectShortName">b_i[16:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fault_tolerant_tb/uut_fault_tolerant_fir/\module_gen(1)\/modules/fir_filter_0/first_section/b_i" type="array">
+      <obj_property name="ElementShortName">b_i[16:0]</obj_property>
+      <obj_property name="ObjectShortName">b_i[16:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fault_tolerant_tb/uut_fault_tolerant_fir/\module_gen(2)\/modules/fir_filter_0/first_section/b_i" type="array">
+      <obj_property name="ElementShortName">b_i[16:0]</obj_property>
+      <obj_property name="ObjectShortName">b_i[16:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fault_tolerant_tb/axi_tdata_i_s" type="array">
+      <obj_property name="ElementShortName">axi_tdata_i_s[16:0]</obj_property>
+      <obj_property name="ObjectShortName">axi_tdata_i_s[16:0]</obj_property>
+      <obj_property name="WaveformStyle">STYLE_ANALOG</obj_property>
+      <obj_property name="CellHeight">100</obj_property>
+      <obj_property name="Radix">REALRADIX</obj_property>
+      <obj_property name="radix_realType">SIGNEDFIXEDPOINTRADIX</obj_property>
+      <obj_property name="radix_fractionWidth">16</obj_property>
+      <obj_property name="radix_otherWidth">0</obj_property>
+      <obj_property name="AnalogYRangeType">ANALOG_YRANGETYPE_AUTO</obj_property>
+      <obj_property name="AnalogYRangeMin">0.000000</obj_property>
+      <obj_property name="AnalogYRRangeMax">0.000000</obj_property>
+      <obj_property name="AnalogInterpolation">ANALOG_INTERPOLATION_LINEAR</obj_property>
+      <obj_property name="AnalogOffscale">ANALOG_OFFSCALE_HIDE</obj_property>
+      <obj_property name="AnalogHorizLine">0.000000</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fault_tolerant_tb/axi_tvalid_i_s" type="logic">
+      <obj_property name="ElementShortName">axi_tvalid_i_s</obj_property>
+      <obj_property name="ObjectShortName">axi_tvalid_i_s</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fault_tolerant_tb/axi_tready_i_s" type="logic">
+      <obj_property name="ElementShortName">axi_tready_i_s</obj_property>
+      <obj_property name="ObjectShortName">axi_tready_i_s</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fault_tolerant_tb/axi_tdata_o_s" type="array">
+      <obj_property name="ElementShortName">axi_tdata_o_s[16:0]</obj_property>
+      <obj_property name="ObjectShortName">axi_tdata_o_s[16:0]</obj_property>
+      <obj_property name="WaveformStyle">STYLE_ANALOG</obj_property>
+      <obj_property name="CellHeight">100</obj_property>
+      <obj_property name="Radix">REALRADIX</obj_property>
+      <obj_property name="radix_realType">SIGNEDFIXEDPOINTRADIX</obj_property>
+      <obj_property name="radix_fractionWidth">16</obj_property>
+      <obj_property name="radix_otherWidth">0</obj_property>
+      <obj_property name="AnalogYRangeType">ANALOG_YRANGETYPE_AUTO</obj_property>
+      <obj_property name="AnalogYRangeMin">0.000000</obj_property>
+      <obj_property name="AnalogYRRangeMax">0.000000</obj_property>
+      <obj_property name="AnalogInterpolation">ANALOG_INTERPOLATION_LINEAR</obj_property>
+      <obj_property name="AnalogOffscale">ANALOG_OFFSCALE_HIDE</obj_property>
+      <obj_property name="AnalogHorizLine">0.000000</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fault_tolerant_tb/axi_tvalid_o_s" type="logic">
+      <obj_property name="ElementShortName">axi_tvalid_o_s</obj_property>
+      <obj_property name="ObjectShortName">axi_tvalid_o_s</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fault_tolerant_tb/axi_tready_o_s" type="logic">
+      <obj_property name="ElementShortName">axi_tready_o_s</obj_property>
+      <obj_property name="ObjectShortName">axi_tready_o_s</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fault_tolerant_tb/uut_fault_tolerant_fir/\module_gen(0)\/modules/data_o" type="array">
+      <obj_property name="ElementShortName">data_o[16:0]</obj_property>
+      <obj_property name="ObjectShortName">data_o[16:0]</obj_property>
+      <obj_property name="WaveformStyle">STYLE_ANALOG</obj_property>
+      <obj_property name="CellHeight">100</obj_property>
+      <obj_property name="Radix">REALRADIX</obj_property>
+      <obj_property name="radix_realType">SIGNEDFIXEDPOINTRADIX</obj_property>
+      <obj_property name="radix_fractionWidth">16</obj_property>
+      <obj_property name="radix_otherWidth">0</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fault_tolerant_tb/uut_fault_tolerant_fir/\module_gen(1)\/modules/data_o" type="array">
+      <obj_property name="ElementShortName">data_o[16:0]</obj_property>
+      <obj_property name="ObjectShortName">data_o[16:0]</obj_property>
+      <obj_property name="Radix">REALRADIX</obj_property>
+      <obj_property name="radix_realType">SIGNEDFIXEDPOINTRADIX</obj_property>
+      <obj_property name="radix_fractionWidth">16</obj_property>
+      <obj_property name="radix_otherWidth">0</obj_property>
+      <obj_property name="WaveformStyle">STYLE_ANALOG</obj_property>
+      <obj_property name="CellHeight">100</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fault_tolerant_tb/uut_fault_tolerant_fir/\module_gen(2)\/modules/data_o" type="array">
+      <obj_property name="ElementShortName">data_o[16:0]</obj_property>
+      <obj_property name="ObjectShortName">data_o[16:0]</obj_property>
+      <obj_property name="WaveformStyle">STYLE_ANALOG</obj_property>
+      <obj_property name="CellHeight">100</obj_property>
+      <obj_property name="Radix">REALRADIX</obj_property>
+      <obj_property name="radix_realType">SIGNEDFIXEDPOINTRADIX</obj_property>
+      <obj_property name="radix_fractionWidth">16</obj_property>
+      <obj_property name="radix_otherWidth">0</obj_property>
+   </wvobject>
+</wave_config>

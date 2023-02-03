@@ -1,0 +1,7 @@
+Vivado Simulator 2020.2
+Copyright 1986-1999, 2001-2020 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2020.2/bin/unwrapped/win64.o/xelab.exe -wto 5c70773e2bbb4a6597024552c394e04d --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot fault_tolerant_tb_func_synth xil_defaultlib.fault_tolerant_tb -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+ERROR: [VRFC 10-3114] architecture 'behavioral' not found in entity 'fault_tolerant' [C:/Users/Andrej/Desktop/git/otporni/fault_tolerant_fir/fault_tolerant_fir.srcs/sim_1/new/fault_tolerant_tb.vhd:73]
+ERROR: [XSIM 43-3321] Static elaboration of top level VHDL design unit fault_tolerant_tb in library work failed.
